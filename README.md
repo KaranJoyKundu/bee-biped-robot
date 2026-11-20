@@ -1,9 +1,19 @@
+<h2 align="center">Bee Biped — Photo Gallery</h2>
+
 <p align="center">
-  <img src="media/images/photo1.jpg" width="48%">
-  <img src="media/images/photo2.jpg" width="48%">
+  <img src="media/images/photo1.jpg" alt="Bee Biped robot" width="75%">
 </p>
 
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="media/images/20260819_141629.jpg" alt="Bee Biped robot" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <img src="media/images/photo2.jpg" alt="Bee Biped robot" width="100%">
+    </td>
+  </tr>
+</table>
 
 # 🐝 Bee Biped Robot
 

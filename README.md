@@ -1,19 +1,16 @@
 <h2 align="center">Bee Biped — Photo Gallery</h2>
 
 <p align="center">
-  <img src="media/images/photo1.jpg" alt="Bee Biped photo 7" width="75%">
-  <br><sub>Photo 7</sub>
+  <img src="media/images/photo1.jpg" alt="Bee Biped robot" width="75%">
 </p>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="media/images/20260819_141629.jpg" alt="Bee Biped photo 1" width="100%">
-      <br><sub>Photo 1</sub>
+      <img src="media/images/20260819_141629.jpg" alt="Bee Biped robot" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="media/images/photo2.jpg" alt="Bee Biped photo 8" width="100%">
-      <br><sub>Photo 8</sub>
+      <img src="media/images/photo2.jpg" alt="Bee Biped robot" width="100%">
     </td>
   </tr>
 </table>

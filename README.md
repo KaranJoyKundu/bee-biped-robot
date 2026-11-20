@@ -1,21 +1,20 @@
 <h2 align="center">Bee Biped — Photo Gallery</h2>
 
+<p align="center">
+  <img src="media/images/photo1.jpg" alt="Bee Biped photo 7" width="75%">
+  <br><sub>Photo 7</sub>
+</p>
+
 <table>
   <tr>
-    <td align="center" width="50%"><img src="media/images/20260819_141629.jpg" alt="Bee Biped photo 1" width="100%"><br><sub>Photo 1</sub></td>
-    <td align="center" width="50%"><img src="media/images/20260819_141726.jpg" alt="Bee Biped photo 2" width="100%"><br><sub>Photo 2</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><img src="media/images/20260819_141742.jpg" alt="Bee Biped photo 3" width="100%"><br><sub>Photo 3</sub></td>
-    <td align="center" width="50%"><img src="media/images/20260819_142032.jpg" alt="Bee Biped photo 4" width="100%"><br><sub>Photo 4</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><img src="media/images/20260819_142044.jpg" alt="Bee Biped photo 5" width="100%"><br><sub>Photo 5</sub></td>
-    <td align="center" width="50%"><img src="media/images/20260819_142150.jpg" alt="Bee Biped photo 6" width="100%"><br><sub>Photo 6</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><img src="media/images/photo1.jpg" alt="Bee Biped photo 7" width="100%"><br><sub>Photo 7</sub></td>
-    <td align="center" width="50%"><img src="media/images/photo2.jpg" alt="Bee Biped photo 8" width="100%"><br><sub>Photo 8</sub></td>
+    <td align="center" width="50%">
+      <img src="media/images/20260819_141629.jpg" alt="Bee Biped photo 1" width="100%">
+      <br><sub>Photo 1</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="media/images/photo2.jpg" alt="Bee Biped photo 8" width="100%">
+      <br><sub>Photo 8</sub>
+    </td>
   </tr>
 </table>
 
